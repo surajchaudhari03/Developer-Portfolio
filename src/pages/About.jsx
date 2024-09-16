@@ -19,9 +19,8 @@ export default function About() {
                     <p className="md:text-xl font-semibold mt-4 mx-auto">{Details.personalDetails.designation}</p>
                     <p className='text-justify md:text-left text-sm my-4'>{Details.personalDetails.description}</p>
                     <div id="social-links" className="flex justify-center space-x-4 mt-6">
-                        <a href="https://github.com"><i className="fab fa-github text-2xl"></i></a>
-                        <a href="https://linkedin.com"><i className="fab fa-linkedin text-2xl"></i></a>
-                        <a href="https://twitter.com"><i className="fab fa-instagram text-2xl"></i></a>
+                        <a href="https://github.com/surajchaudhari03"><i className="fab fa-github text-2xl"></i></a>
+                        <a href="https://www.linkedin.com/in/surajchaudhari03"><i className="fab fa-linkedin text-2xl"></i></a>
                     </div>
                 </section>
             </section>
